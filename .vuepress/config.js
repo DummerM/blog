@@ -26,6 +26,13 @@ module.exports = {
         "name": "viewport",
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       }
+    ],
+    [
+      "meta",
+      {
+        "name": "keywords",
+        "content": "心方方，前端笔记，在线撸猫，心方方的秘密花园"
+      }
     ]
   ],
   "theme": "reco",
@@ -85,6 +92,7 @@ module.exports = {
     "startYear": "2022"
   },
   "markdown": {
-    "lineNumbers": true
+    "lineNumbers": true,
+    externalLinks: { target: '_blank', rel: 'nofollow noopener noreferrer' }
   }
 }

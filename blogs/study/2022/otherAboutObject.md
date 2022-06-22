@@ -5,7 +5,7 @@ sidebar: 'auto'
 tags:
  - design
 categories:
- - 笔记
+ - 前端
 ---
 
 ## git commit规范

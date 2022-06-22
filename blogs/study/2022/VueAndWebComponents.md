@@ -5,7 +5,7 @@ sidebar: 'auto'
 tags:
  - Vue
 categories:
- - 笔记
+ - 前端
 ---
 
 ::: tip

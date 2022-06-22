@@ -5,7 +5,7 @@ sidebar: 'auto'
 tags:
  - JavaScript
 categories:
- - 笔记
+ - 前端
 ---
 
 ## JavaScript 协程的发展
