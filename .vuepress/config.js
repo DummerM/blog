@@ -35,6 +35,11 @@ module.exports = {
       }
     ]
   ],
+  locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
+  },
   "theme": "reco",
   "themeConfig": {
     "nav": [
