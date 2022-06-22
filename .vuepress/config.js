@@ -8,7 +8,13 @@ module.exports = {
       {
         "modelName": "hijiki",
         "mobileShow": false,
-        position: "left"
+        position: "right"
+      }
+    ],
+    [
+      'sitemap',
+      {
+        hostname: 'https://www.xingfangfang.com'
       }
     ]
   ],
@@ -33,6 +39,13 @@ module.exports = {
         "name": "keywords",
         "content": "心方方，前端笔记，在线撸猫，心方方的秘密花园"
       }
+    ],
+    [
+      "meta",
+      {
+        "name": "baidu-site-verification",
+        "content": "code-UUkiJPbrl5"
+      }
     ]
   ],
   locales: {
@@ -42,6 +55,10 @@ module.exports = {
   },
   "theme": "reco",
   "themeConfig": {
+    valineConfig: {
+      appId: 'aNqtyUdaOznWHNyzqOJeQ4gH-gzGzoHsz',// your appId
+      appKey: 'zzM0u3RkVYsHKkAtqTvB9t5w', // your appKey
+    },
     "nav": [
       {
         "text": "首页",
@@ -91,7 +108,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "xingfangfang",
+    "author": "xinfangfang",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
     "startYear": "2022"

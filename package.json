@@ -13,6 +13,7 @@
   },
   "description": "note",
   "dependencies": {
-    "vuepress-plugin-live2d": "^0.0.7"
+    "vuepress-plugin-live2d": "^0.0.7",
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }

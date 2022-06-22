@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 好好学，好好看
-tagline: Learning without thinking is waste, thinking without learning is idle
+tagline: Learning without thinking is waste, Thinking without learning is idle
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
