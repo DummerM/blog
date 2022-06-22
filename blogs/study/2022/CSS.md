@@ -1,13 +1,14 @@
 ---
 title: CSS包含块
 date: 2022-06-20
+sidebar: 'auto'
 tags:
  - CSS
 categories:
- -  笔记
+ - 笔记
 ---
 
-#### 包含块
+## 包含块
 
 一个元素，它的框的尺寸和位置会相对于一个特定的矩形框边缘来计算而得到，这个特定的矩形框称之为该元素的 `包含块`。
 
@@ -31,13 +32,13 @@ categories:
 
 参考文档：https://blog.csdn.net/syleapn/article/details/79582190
 
-#### 块级元素和块元素
+## 块级元素和块元素
 
 块级元素是那些视觉上会被格式化成块状的元素，通俗一点来说就是那些会换新行的元素。`display` 属性的：`block`, `list-item`, `table`, `flex`, `grid` 值都可以将一个元素设置成块级元素。
 
 > 块元素是 `display` 属性值为 `block` 的元素，它应该是 `块级元素` 的一个子集，而不是等同的，一个 `块元素` 是一个 `块级元素`，但一个 `块级元素` 不一定是一个 `块元素`，所以不要混淆。
 
-#### 块级框，块容器框，块框
+## 块级框，块容器框，块框
 
 - 什么是块级框？
 
@@ -65,7 +66,7 @@ categories:
 
 [![block boxes](http://blog.doyoe.com/image/boxes/block-boxes.png)](http://blog.doyoe.com/image/boxes/block-boxes.png)
 
-#### 可置换元素
+## 可置换元素
 
 > 行内元素不可以设置宽高 img属于行内元素 但img却能是设置宽高的原因是他是一个置换元素（又叫置换元素）
 

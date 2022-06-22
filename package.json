@@ -6,11 +6,10 @@
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build .",
     "deploy": "deploy.sh"
-
   },
   "devDependencies": {
-    "vuepress": "1.8.2",
-    "vuepress-theme-reco": "1.6.10"
+    "vuepress": "^1.8.2",
+    "vuepress-theme-reco": "^1.6.10"
   },
   "description": "note",
   "dependencies": {

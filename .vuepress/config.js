@@ -6,7 +6,7 @@ module.exports = {
     [
       "vuepress-plugin-live2d",
       {
-        "modelName": "",
+        "modelName": "hijiki",
         "mobileShow": false,
         position: "left"
       }
