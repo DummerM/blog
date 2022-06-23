@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 好好学，好好看
-tagline: Learning without thinking is waste, Thinking without learning is idle
+heroText: Xinfangfang's Blog
+tagline: 现在睡觉的话，会做梦 - 而现在学习的话，会让梦实现
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

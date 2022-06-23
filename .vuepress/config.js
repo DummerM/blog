@@ -7,14 +7,14 @@ module.exports = {
       "vuepress-plugin-live2d",
       {
         "modelName": "hijiki",
-        "mobileShow": false,
+        "mobileShow": true,
         position: "right"
       }
     ],
     [
       'sitemap',
       {
-        hostname: 'https://www.xingfangfang.com'
+        hostname: 'http://www.xinfangfang.cn'
       }
     ]
   ],
@@ -44,7 +44,7 @@ module.exports = {
       "meta",
       {
         "name": "baidu-site-verification",
-        "content": "code-UUkiJPbrl5"
+        "content": "code-SpVJYVjLyl"
       }
     ]
   ],

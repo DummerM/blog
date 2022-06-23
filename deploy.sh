@@ -11,7 +11,7 @@ cd public
  
 
 # 如果是发布到自定义域名
-echo "www.xingfangfang.com" > CNAME
+echo "www.xinfangfang.cn" > CNAME
  
 git init
 git add -A
