@@ -34,13 +34,17 @@ git config --list # 显示当前的Git配置
 ```
 git remote add origin <URL> # 关联远程仓库，以下操作的前提条件
 git remote -v # 显示远程仓库
+git branch -vv  # 查看本地分支与远程分支对应关系
 
 git pull # 拉取远程代码到本地
 git push -u origin master # 推送本地到远程master分支
 git push origin :branch-name # 删除远程分支 # 等同于 git push origin --delete [branch-name]
 
 git merge feat-name # feat-name分支内容合并到当前分支，适合不同分支间commit合并操作
-    
+git checkout -b devbranch origin/devbranch  # 创建分支并切换分支，同时对应到远程分支
+
+git pull或者git fetch origin可以拉取所有远程分支
+使用git pull origin devbranch命令可以拉取单远程分支
 ```
 
 ## 高级
