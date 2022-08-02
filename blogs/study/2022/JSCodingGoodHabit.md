@@ -1,3 +1,13 @@
+---
+title: Js编码中的好习惯
+date: 2022-07-25
+sidebar: 'auto'
+tags:
+ - JavaScript
+categories:
+ - 前端
+---
+
 ## 1.console.log({name})取代console.log('name', name)
 
 当我们有一个变量名需要在控制台打印的时候，很多人都习惯于这样写：
