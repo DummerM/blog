@@ -112,7 +112,7 @@ export default service
 
 使用：
 
-```vue
+```javascript
 import request from '@/utils/request'
 
 //使用
